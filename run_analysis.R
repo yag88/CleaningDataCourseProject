@@ -105,7 +105,8 @@ NewTidySet <- NewTidySet[order(NewTidySet$Id_subject, NewTidySet$Id_activity),]
 # 'data.frame':	180 obs. of  81 variables:
 ## I got all the rows for 30 subjects x 6 activities => all is OK.
 
-write.csv(NewTidySet, "NewTidySet.csv")
+
+write.table(NewTidySet, "NewTidySet.txt", row.name=FALSE)
 
 ## to keep the result in a new file.
 

@@ -6,7 +6,7 @@ by YAG, on 18/6/2017
 Overview
 --------
 
-This code book explains where the data comes from, what operations we performed on it, and the structure of the resulting dataset.
+This code book explains where the data comes from, what operations we performed on it, and the variables in the resulting dataset.
 
 Source
 ------
