@@ -23,6 +23,6 @@ Files
 -   (3/5) Uses descriptive activity names to name the activities in the data set
 -   (4/5) Appropriately labels all the previous tables with descriptive variable names.
 -   (5/5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-    -   we have created a `NewTidySet.csv` file containing the result of step 5
+    -   we have created a `NewTidySet.txt` file containing the result of step 5
 
 `NewTidySet.csv` is the new tidy data set with the average of each variable for each activity and each subject.
