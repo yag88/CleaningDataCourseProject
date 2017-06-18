@@ -1,3 +1,8 @@
+CodeBook.md - Getting and Cleaning Data Course Project
+======================================================
+
+by YAG, on 18/6/2017
+
 Overview
 --------
 
